@@ -1,0 +1,36 @@
+.text-up {
+    text-transform: uppercase;
+}
+
+.group-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    border: 1px #000 solid;
+    cursor: pointer;
+}
+
+.group-title:hover {
+    background-color: #000;
+    color: #fff;
+    transition: 0.3s ease-in-out; 
+}
+
+.red {
+    color: red;
+}
+
+.group-name {
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.btn-custom {
+    border-radius: 0;
+    width: 100%;
+}
+
+.ital {
+    font-style: italic;
+}
